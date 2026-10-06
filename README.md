@@ -42,11 +42,5 @@ I use Claude Code and GitHub Copilot daily — for IaC authoring, root-cause tro
 
 ---
 
-### Certifications
-- AWS Certified Solutions Architect – Associate (2019)
-- RHCSA – Red Hat Certified System Administrator (2018)
-
----
-
 ### Let's connect
 Open to platform engineering / SRE / Kubernetes contract and advisory conversations — reach out on [LinkedIn](https://www.linkedin.com/in/ramit-amitabh/) or [X](https://x.com/ramitabh17).
